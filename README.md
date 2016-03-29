@@ -1,4 +1,6 @@
-[![Soundcloud](designAssets/soundcloud.png)](https://soundcloud.com/sam-halperin/composition-for-genetic)
+## Composition for Genetic Algorithm and Guitar
+
+[![Soundcloud](designAssets/soundcloud.png)](https://soundcloud.com/nefesh_echad/composition-for-genetic)
 
 This was an AI experiment in using a Genetic Algorithm for computational musical creativity.
 
